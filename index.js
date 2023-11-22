@@ -83,7 +83,7 @@ const arrayOfColors = [
     "Sinine",
 ];
 
-for(const color in arrrayOfColors) {
+for(const color in arrayOfColors) {
     const editedColors = color.toUpperCase();
     console.log(editedColors)
 };
@@ -95,7 +95,7 @@ for(const color in arrrayOfColors) {
 *
 *4) For...Of näide:
 */
-for(const color of arrrayOfColors) {
+for(const color of arrayOfColors) {
     const editedColors = color.toUpperCase();
     console.log("for...of:", editedColors)
 };

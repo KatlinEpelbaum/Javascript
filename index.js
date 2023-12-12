@@ -147,3 +147,17 @@ console.log(areaCalculator(3, 4));
     console.log("Arrow funktsioon töötab ka nii");
 })();
 
+/*
+*DOM basics
+*/
+
+/*
+*Element selection:
+*-getElementById
+*-getElementByClassName
+*-GetElementByTagName
+*-querySelector
+*-querySelectorAll
+*/
+
+

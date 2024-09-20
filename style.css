@@ -1,0 +1,38 @@
+h4 {
+    color: palevioletred;
+    font-size: 30px;
+}
+select {
+    color: purple;
+    border-color:deeppink;
+    border-radius: 1rem;
+    border-width: 2px;
+    padding: 4px;
+}
+body {
+    padding: 30px;
+    background-color: rgb(255, 216, 233);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+button {
+    color: darkmagenta;
+    border-color: hotpink;
+    border-radius: 2rem;
+    padding: 5px;
+    background-color: white;
+}
+input {
+    border-color: rgb(246, 108, 175);
+    border-radius: 5px;
+    width: 40rem;
+    box-shadow: 5px 5px 5px plum;
+}
+h3 {
+    color: plum;
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+    color: rgb(255, 78, 172);
+    font-weight: 600;
+}
